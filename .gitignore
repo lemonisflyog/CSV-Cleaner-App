@@ -1,0 +1,17 @@
+# Ignore build artifacts
+build/
+dist/
+*.spec
+*.exe
+
+# Ignore Nuitka output folders
+*.build/
+*.dist/
+*.onefile-build/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
