@@ -3,12 +3,13 @@ build/
 dist/
 *.spec
 *.exe
+Dirty_Data/
 
 # Ignore Nuitka output folders
 *.build/
 *.dist/
 *.onefile-build/
-
+*.Dirty_Data/
 # Ignore Python cache
 __pycache__/
 *.pyc
