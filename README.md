@@ -7,6 +7,11 @@ A simple desktop application built with PySide6 and Pandas to clean and analyze 
 - Displays subscription graphs (monthly & yearly)
 - Exports cleaned CSV files
 
+
+   ## Download
+  Download the "CSV_Cleaner.exe" application ONLY.       # Sorry, this was also my first git push and there are unnecessary files here.
+
+
   ## How to Run
 EXE
    Open "CSV_Cleaner.exe"
