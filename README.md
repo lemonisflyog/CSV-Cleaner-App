@@ -1,4 +1,5 @@
    # CSV Cleaner App
+   # First program I have ever made. Don't expect much, I built it for a python project to learn and put my knowledge to use.
 
 A simple desktop application built with PySide6 and Pandas to clean and analyze CSV files.
 - Cleans website URLs
