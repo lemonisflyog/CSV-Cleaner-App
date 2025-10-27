@@ -23,7 +23,7 @@ EXE:
 # How To Use
    Upload the included "customers-100.csv" file and navigate through the tabs to see the results!
 
-Manual:
+# Manual:
    Install requirements:
    ```bash
    pip install -r requirements.txt
