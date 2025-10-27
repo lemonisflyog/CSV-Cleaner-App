@@ -12,10 +12,10 @@ A simple desktop application built with PySide6 and Pandas to clean and analyze 
   Download as .zip and extract all files anywhere.
 
   ## How to Run
-EXE
+#EXE:
    Open "CSV_Cleaner.exe"
 
-Manual:
+#Manual:
    Install requirements:
    ```bash
    pip install -r requirements.txt
