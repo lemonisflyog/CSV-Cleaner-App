@@ -9,8 +9,7 @@ A simple desktop application built with PySide6 and Pandas to clean and analyze 
 
 
    ## Download
-  Download the "CSV_Cleaner.exe" application ONLY.       # Sorry, this was also my first git push and there are unnecessary files here.
-
+  Download as .zip and extract all files anywhere.
 
   ## How to Run
 EXE
