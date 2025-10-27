@@ -13,17 +13,17 @@ A simple desktop application built with PySide6 and Pandas to clean and analyze 
 - Exports cleaned CSV files
 
 
-   # Download
+# Download
   Download as .zip and extract all files anywhere.
 
-  # How to Run
-#EXE:
+# How to Run
+EXE:
    Open "CSV_Cleaner.exe"
 
-  # How To Use
+# How To Use
    Upload the included "customers-100.csv" file and navigate through the tabs to see the results!
 
-#Manual:
+Manual:
    Install requirements:
    ```bash
    pip install -r requirements.txt
